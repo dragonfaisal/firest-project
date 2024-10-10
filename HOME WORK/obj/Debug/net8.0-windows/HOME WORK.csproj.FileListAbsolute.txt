@@ -1,0 +1,17 @@
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\bin\Debug\net8.0-windows\HOME WORK.exe
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\bin\Debug\net8.0-windows\HOME WORK.deps.json
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\bin\Debug\net8.0-windows\HOME WORK.runtimeconfig.json
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\bin\Debug\net8.0-windows\HOME WORK.dll
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\bin\Debug\net8.0-windows\HOME WORK.pdb
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\obj\Debug\net8.0-windows\HOME_WORK.Form1.resources
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\obj\Debug\net8.0-windows\HOME WORK.csproj.GenerateResource.cache
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\obj\Debug\net8.0-windows\HOME WORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\obj\Debug\net8.0-windows\HOME WORK.AssemblyInfoInputs.cache
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\obj\Debug\net8.0-windows\HOME WORK.AssemblyInfo.cs
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\obj\Debug\net8.0-windows\HOME WORK.csproj.CoreCompileInputs.cache
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\obj\Debug\net8.0-windows\HOME WORK.dll
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\obj\Debug\net8.0-windows\refint\HOME WORK.dll
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\obj\Debug\net8.0-windows\HOME WORK.pdb
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\obj\Debug\net8.0-windows\HOME WORK.genruntimeconfig.cache
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\obj\Debug\net8.0-windows\ref\HOME WORK.dll
+C:\Users\alfai\OneDrive\Documents\HOME-WORK\HOME WORK\HOME WORK\obj\Debug\net8.0-windows\HOME_WORK.Properties.Resources.resources
